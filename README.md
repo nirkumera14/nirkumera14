@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Niraj Kumar
-**A passionate JAVA FullStack Developer**
+**A passionate JAVA/MERN FullStack Developer**
 
 Email Me 👉 ✉️ **niraj.p3086@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
